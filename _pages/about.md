@@ -14,4 +14,4 @@ We are a journal club comprised of graduate students in the [Department of Psych
 
 Submit and vote on your favorite papers! 
 ======
-Submit potential journal club papers and vote for your favorites by clicking on the "submit" page or by clicking [here!](http://www.rkursem.com/poll/view.php?cmd=answer&id=628e9b27dccaa3479)
+Submit potential journal club papers and vote for your favorites by clicking on the "submit" page or by clicking [here!](https://poll.ly/#/PE9m5mJa)
