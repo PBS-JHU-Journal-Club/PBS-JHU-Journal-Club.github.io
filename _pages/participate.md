@@ -1,0 +1,16 @@
+---
+layout: archive
+title: ""
+permalink: /participate/
+author_profile: true
+redirect_from:
+  - /participate
+---
+
+{% include base_path %}
+
+Submit potential journal club papers and vote for your favorites using the poll below:
+
+<div class="pollly-embed" data-id="PE9m5mJa"></div><script src="https://poll.ly/scripts/embed.js"></script>
+
+======
