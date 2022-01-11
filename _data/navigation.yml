@@ -2,8 +2,7 @@
 main:
 
   - title: "Submit and Vote"
-    url: /_pages/participate.html
-
+    url: /participate/
   - title: "Past papers"
     url: /publications/
     
