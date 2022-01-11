@@ -1,19 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Code"
-    url: /_pages/github2.html
-        
-  - title: "Presentations"
-    url: /portfolio/
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Participate!"
+  - title: "Submit and Vote"
     url: /_pages/participate.html
+
+  - title: "Past papers"
+    url: /publications/
+    
+  - title: "Contact us!"
+    url: /_pages/contact2.html
+    
+  - title: "Contact_us."
+    url: /_pages/contact 
+
