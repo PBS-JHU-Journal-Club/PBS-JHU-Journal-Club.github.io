@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caroline Myers"
+title                    : "PBS JHU Journal Club"
 title_separator          : "-"
-name                     : &name "Caroline Myers"
-description              : &description "NYU Graduate student studying visual perception and attention. Lab manager @ the Carrasco Lab."
-url                      : https://carolinemyers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "PBS Journal Club"
+description              : &description "A journal club for students in the Department of Psychological and Brain Sciences at Johns Hopkins University."
+url                      : https://PBS-JHU-Journal-Club.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "carolinemyers/carolinemyers.github.io"
+repository               : "PBS-JHU-Journal-Club/PBS-JHU-Journal-Club.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &carolinemyers1
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Caroline Myers"
-  avatar           : "CM.jpeg"
-  bio              : "NYU Graduate student studying visual perception and attention. Lab manager @ the Carrasco Lab."
-  location         : "New York"
+  name             : "PBS Journal Club "
+  avatar           : "JHULogo.png"
+  bio              : "A journal club for students in the Department of Psychological and Brain Sciences."
+  location         : "Johns Hopkins University"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/32620746/"
-  googlescholar    : "https://scholar.google.com/citations?user=MfqDoCEAAAAJ&hl=en&authuser=1&oi=ao"
-  email            : "caroline.myers@nyu.edu"
+  pubmed           : 
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carolinemyers"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9658-8237"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : "carolinemyers0"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -187,7 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  contact2:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -202,6 +207,7 @@ defaults:
       comments: true
       share: true
       related: true
+  
   # _pages
   - scope:
       path: ""
@@ -209,6 +215,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _teaching
   - scope:
       path: ""
@@ -218,6 +225,27 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
+  # _contact2
+  - scope:
+      path: ""
+      type: contact2
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
   # _publications
   - scope:
       path: ""
@@ -308,4 +336,6 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: development 
+
+theme: jekyll-theme-minimal
