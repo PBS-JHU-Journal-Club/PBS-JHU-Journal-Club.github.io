@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact_us"
+title: "Contact us!"
 permalink: /contact3/
 author_profile: true
 redirect_from:
@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Interested in joining?
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+No RSVP necessary! We generally meet on Wednesdays from 4 - 5 PM EST in Ames 110.
 
-Work experience
+Not sure what we're reading this week? 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Check your email! In general, we will use the JHU grad student listserv to communicate the top-voted paper of each week. If you believe you are not recieving emails, click [here.](mailto:pbs-grad-request@lists.johnshopkins.edu)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Want to submit a paper? 
+======
+Submit potential journal club papers and vote for your favorites by clicking on the "submit" page or by clicking [here!](https://poll.ly/#/PE9m5mJa)
   
-Skills
+Encounter a bug or have a question not answered here?  
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Please email Caroline at [cmyers60@jhu.edu](cmyers60@jhu.edu)
