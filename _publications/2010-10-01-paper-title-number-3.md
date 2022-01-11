@@ -2,7 +2,6 @@
 title: "Qualitative similarities and differences in visual object representations between brains and deep networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: 'test'
 date: 2022/01/11
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-22078-3'
