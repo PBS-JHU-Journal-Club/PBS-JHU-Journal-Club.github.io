@@ -23,4 +23,4 @@ Submit potential journal club papers and vote for your favorites by clicking on 
   
 Encounter a bug or have a question not answered here?  
 ======
-Please email Caroline at [cmyers60@jhu.edu](cmyers60@jhu.edu)
+Please email Caroline at [cmyers60@jhu.edu](cmyers60@jhu.edu).
