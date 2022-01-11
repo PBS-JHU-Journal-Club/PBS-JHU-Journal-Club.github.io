@@ -3,6 +3,10 @@ main:
 
   - title: "Submit and Vote"
     url: /participate/
+    
+  - title: "This week's paper"
+    url: /current/
+    
   - title: "Past papers"
     url: /publications/
     
