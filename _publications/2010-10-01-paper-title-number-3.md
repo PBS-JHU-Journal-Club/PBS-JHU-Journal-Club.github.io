@@ -1,11 +1,10 @@
 ---
 title: "Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. Nature communications, 12(1), 1-14."
 collection: publications
-permalink: /files/JacobEtAl2021.pdf
+permalink: https://PBS-JHU-Journal-Club.github.io/files/paper1.pdf
 date: 2022/01/11
 authors: 
 venue: 'Nature Communications'
-paperurl: 'https://PBS-JHU-Journal-Club.github.io/files/paper1.pdf'
 citation: 'Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. Nature communications, 12(1), 1-14.'
 ---
 [Download paper here](https://PBS-JHU-Journal-Club.github.io/files/paper1.pdf)
