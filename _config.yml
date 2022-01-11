@@ -181,6 +181,9 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+  current:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -259,6 +262,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
+    # _current
+  - scope:
+      path: ""
+      type: current
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
       
   # _publications
   - scope:
