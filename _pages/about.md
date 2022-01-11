@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/science-for-everyone.png'>
+<br/><img src='/images/science-for-everyone.png' class="center">
 
 We are a journal club comprised of graduate students in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). We generally meet on Wednesdays from 4 - 5 PM EST in Ames 110. 
 
