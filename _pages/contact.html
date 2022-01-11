@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "contact"
+permalink: /contact/
+redirect from:   
+  - /contact/
+  - /contact.html
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.contact reversed %}
+  {% include archive-single.html %}
+{% endfor %}

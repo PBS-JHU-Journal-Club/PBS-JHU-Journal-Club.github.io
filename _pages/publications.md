@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Past journal club papers"
 permalink: /publications/
 author_profile: true
 ---
