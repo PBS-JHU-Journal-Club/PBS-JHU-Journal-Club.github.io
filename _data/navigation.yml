@@ -8,12 +8,6 @@ main:
     url: /publications/
     
   - title: "Contact us!"
-    url: /_pages/contact2.html
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact_us"
     url: /contact3/
     
 
