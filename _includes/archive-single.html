@@ -46,9 +46,10 @@
         {% elsif post.collection == 'current' %}
           <p>To be discussed: <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
     
-        {% elsif post.date %}
-          <p>Date: {{ post.date }} </p>
+     {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
         {% endif %}
+        
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
