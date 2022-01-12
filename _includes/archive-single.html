@@ -47,7 +47,7 @@
           <p>To be discussed: <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
     
         {% elsif post.date %}
-         <p><strong>Date <i></i> {{default: "Discussed:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         <p class="page__date"><strong><i class="date" aria-hidden="true"></i> {{ default: "Discussed:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
