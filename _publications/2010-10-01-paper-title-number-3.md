@@ -15,3 +15,5 @@ citation: 'Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitativ
 <br>
 This is how you dropdown.
 </details>
+
+Notes: here are some notes.
