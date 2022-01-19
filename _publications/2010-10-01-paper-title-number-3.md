@@ -10,6 +10,7 @@ citation: 'Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitativ
 [Download paper here](https://PBS-JHU-Journal-Club.github.io/files/JacobEtAl2021.pdf)
 
 
+<details>
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
