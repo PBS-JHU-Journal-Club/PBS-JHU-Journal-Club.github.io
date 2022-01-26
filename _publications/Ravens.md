@@ -11,6 +11,8 @@ citation: 'Kabadayi, C., & Osvath, M. (2017). Ravens parallel great apes in flex
 
 
 Discussion notes: See also [Constructing and Forgetting Temporal Context in the
-Human Cerebral Cortex](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224) (Chien & Honey, 2020) suggested by Xian and this cool [podcast interview](https://braininspired.co/podcast/18/) with Dean Buonomano at UCLA suggested by Makaela! We have also concluded that birds may or may not be real. 
+Human Cerebral Cortex](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224) (Chien & Honey, 2020) suggested by Xian and this cool [podcast interview](https://braininspired.co/podcast/18/) with Dean Buonomano at UCLA suggested by Makaela! 
+
+Our journal club jury is still undecided as to whether or not birds are real. 
 
 
