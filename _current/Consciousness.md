@@ -9,6 +9,6 @@ citation: 'Raccah, O., Block, N., & Fox, K. C. (2021). Does the prefrontal corte
 ---
 [Download paper here](https://PBS-JHU-Journal-Club.github.io/files/omriblockfox.pdf)
 
-Discussion notes: Forthcoming
+Discussion notes: Here are slides from [Omri's outstanding talk](https://PBS-JHU-Journal-Club.github.io/files/JHU_PBSJC_Talk_RaccahBlockFox.pdf), as well as a new paper by [Dijkstra, Kok & Fleming (2022)](https://PBS-JHU-Journal-Club.github.io/files/DijkstraKokFleming2022.pdf) about the neural mechanisms that underly perceptual reality monitoring.
 
 
