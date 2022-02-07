@@ -9,5 +9,5 @@ citation: 'Petrizzo, I., Anobile, G., Chelli, E., Arrighi, R., & Burr, D. C. (20
 ---
 [Download paper here](https://PBS-JHU-Journal-Club.github.io/files/running.pdf)
 
-Discussion notes: Forthcoming
+Discussion notes: See [this](https://PBS-JHU-Journal-Club.github.io/files/Meck_Church_1983.pdf) paper by Meck & Church (1983). 
 
