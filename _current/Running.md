@@ -1,7 +1,7 @@
 ---
 title: "Visual Duration but Not Numerosity Is Distorted While Running."
 collection: publications
-date: 2022-07-02
+date: 2022-02-07
 citation: 'Petrizzo, I., Anobile, G., Chelli, E., Arrighi, R., & Burr, D. C. (2022). Visual Duration but Not Numerosity Is Distorted While Running. Brain Sciences, 12(1), 81.'
 
 
