@@ -1,13 +1,13 @@
 ---
-title: "Visual Duration but Not Numerosity Is Distorted While Running."
+title: "Human hippocampal replay during rest prioritizes weakly learned information and predicts memory performance."
 collection: publications
-date: 2022-02-07
-citation: 'Petrizzo, I., Anobile, G., Chelli, E., Arrighi, R., & Burr, D. C. (2022). Visual Duration but Not Numerosity Is Distorted While Running. Brain Sciences, 12(1), 81.'
+date: 2022-02-14
+citation: 'Schapiro, A. C., McDevitt, E. A., Rogers, T. T., Mednick, S. C., & Norman, K. A. (2018). Human hippocampal replay during rest prioritizes weakly learned information and predicts memory performance. Nature communications, 9(1), 1-11.'
 
 
 
 ---
-[Download paper here](https://PBS-JHU-Journal-Club.github.io/files/running.pdf)
+[Download paper here](https://PBS-JHU-Journal-Club.github.io/files/hippocamp.pdf)
 
-Discussion notes: See [this](https://PBS-JHU-Journal-Club.github.io/files/Meck_Church_1983.pdf) paper by Meck & Church (1983). 
+Discussion notes: Forthcoming
 
