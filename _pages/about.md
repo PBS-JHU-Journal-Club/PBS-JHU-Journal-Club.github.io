@@ -17,4 +17,3 @@ Submit and vote on your favorite papers!
 Submit potential journal club papers and vote for your favorites by clicking on the "submit" page or using the poll below:
 
 <div class="pollly-embed" data-id="PE9m5mJa"></div><script src="https://poll.ly/scripts/embed.js"></script>
-
