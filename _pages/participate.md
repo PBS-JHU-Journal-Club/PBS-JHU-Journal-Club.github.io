@@ -12,5 +12,7 @@ redirect_from:
 Submit potential journal club papers and vote for your favorites using the poll below:
 
 <div class="pollly-embed" data-id="PE9m5mJa"></div><script src="https://poll.ly/scripts/embed.js"></script>
+<script src="https://poll.ly/scripts/embed.js"></script>
+****
 
 ======
