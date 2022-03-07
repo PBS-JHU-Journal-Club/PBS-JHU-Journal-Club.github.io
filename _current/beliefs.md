@@ -9,5 +9,5 @@ citation: 'Jamali, M., Grannan, B.L., Fedorenko, E. et al. Single-neuronal predi
 ---
 [Download paper here](https://PBS-JHU-Journal-Club.github.io/files/beliefs.pdf)
 
-Discussion notes: Forthcoming
+Discussion notes: Also of note is [this paper](https://PBS-JHU-Journal-Club.github.io/files/macaques.pdf) shared by Jacob, claiming that macaques show theory of mind.  
 
